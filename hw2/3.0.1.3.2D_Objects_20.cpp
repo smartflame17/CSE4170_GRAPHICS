@@ -12,7 +12,7 @@ GLint loc_ModelViewProjectionMatrix, loc_primitive_color; // indices of uniform 
 														  // include glm/*.hpp only if necessary
 														  //#include <glm/glm.hpp> 
 #include <glm/gtc/matrix_transform.hpp> //translate, rotate, scale, ortho, etc.
-#include "3.0.1.3.2D_Objects_20.h"
+
 glm::mat4 ModelViewProjectionMatrix;
 glm::mat4 ViewMatrix, ProjectionMatrix, ViewProjectionMatrix;
 
