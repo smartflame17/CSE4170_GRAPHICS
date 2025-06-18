@@ -15,3 +15,6 @@ Creative Project utilizing 2d affine transformations
 ## HW3
 3D world with both dynamic, static objects <br>
 Simulated "CCTV"s with multiple viewports
+
+## HW4
+OpenGL Lighting Equation explained <br>
