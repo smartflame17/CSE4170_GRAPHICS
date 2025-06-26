@@ -18,3 +18,8 @@ Simulated "CCTV"s with multiple viewports
 
 ## HW4
 OpenGL Lighting Equation explained <br>
+
+## HW5
+3D world updated with new shaders (Gouraud, Phong Shading)
+
+<img src="https://github.com/user-attachments/assets/8eb7718c-451c-41e0-b92b-126967652034" alt="Screenshot" width="50%"/>
